@@ -8,7 +8,7 @@ export default function Home() {
       <section id="home" className="relative w-full h-screen flex justify-center items-center overflow-hidden">
         <img
           src="https://cloud.famproperties.com/project/large/creek-waters-265855-131346.jpg"
-          className="absolute w-full h-full object-cover top-0 left-0"
+          className="fixed w-full h-full object-cover top-0 left-0"
           alt="Luxury Home"
         />
 
